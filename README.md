@@ -1,4 +1,4 @@
-# Project 1 - Team Nestlé
+# Project 1 - Team Nestle
 Big-Scale Analytics Course 2020 - Master of Information Systems - HEC Lausanne
 
 Professor Michalis Vlachos
